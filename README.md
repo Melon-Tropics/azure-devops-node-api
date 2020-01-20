@@ -1,5 +1,7 @@
 # Azure DevOps Client for Node.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Melon-Tropics/azure-devops-node-api.svg)](https://greenkeeper.io/)
+
 Integrate with Azure DevOps from your Node.js apps.
 
 ### Install the library
